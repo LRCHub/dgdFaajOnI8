@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "バクチ・ダンサー",
+  "base_artist": "DOES",
+  "createdAt": "2025-12-29T03:20:46.564093Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バクチ・ダンサー",
+      "artist": "Does",
+      "has_synced": true,
+      "path": "select/01_バクチ・ダンサー_Does.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バクチ・ダンサー",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/02_バクチ・ダンサー_DOES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バクチ・ダンサー",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/03_バクチ・ダンサー_DOES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バクチ・ダンサー Demo",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/04_バクチ・ダンサー_Demo_DOES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バクチ・ダンサー",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/05_バクチ・ダンサー_DOES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "バクチ・ダンサー",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/06_バクチ・ダンサー_DOES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "バクチ・ダンサー",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/07_バクチ・ダンサー_DOES.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "バクチ・ダンサー - Bakuchi Dancer",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/08_バクチ・ダンサー_-_Bakuchi_Dancer_DOES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バクチ・ダンサー",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/pl_01_バクチ・ダンサー_DOES.txt"
+    }
+  ]
+}
